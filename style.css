@@ -1,0 +1,38 @@
+/***Global stlyes***/
+
+h1 {
+    color: #5D5E60;
+}
+
+body {
+    background-color: #D8CBC7
+}
+
+.container {
+    background-color: whitesmoke
+}
+
+ul {
+    list-style:none;
+}
+
+.surname {
+    color: #B7999C
+        
+}
+
+/***SIDEBAR***/
+.profile-pic {
+    border-radius: 50%;
+    
+}
+
+/***Resume Head***/
+.resume-head h3 {
+    font-size: 15px;
+}
+
+/***Education***/
+#education h2 {
+    color: #A77464
+}
